@@ -9,7 +9,6 @@ code --install-extension deckerio.breakpointio
 code --install-extension donjayamanne.githistory
 code --install-extension DotJoshJohnson.xml
 code --install-extension dtsvet.vscode-wasm
-code --install-extension eamodio.gitlens
 code --install-extension fernandoescolar.vscode-solution-explorer
 code --install-extension foxundermoon.shell-format
 code --install-extension fredericbonnet.cmake-test-adapter
