@@ -15,10 +15,13 @@ code --install-extension fredericbonnet.cmake-test-adapter
 code --install-extension GitLab.gitlab-workflow
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension josetr.cmake-language-support-vscode
+code --install-extension llvm-vs-code-extensions.vscode-clangd
 code --install-extension maattdd.gitless
-code --install-extension matepek.vscode-catch2-test-adapter
+code --install-extension matepek.testmate-cpp-legacy
 code --install-extension mhutchie.git-graph
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-vscode-remote.remote-ssh-edit
@@ -34,6 +37,7 @@ code --install-extension mtib.vsgx
 code --install-extension natessilva.ts-prop-dag
 code --install-extension oderwat.indent-rainbow
 code --install-extension Remisa.shellman
+code --install-extension rogalmic.bash-debug
 code --install-extension shaharkazaz.git-merger
 code --install-extension technosophos.vscode-make
 code --install-extension timonwong.shellcheck
