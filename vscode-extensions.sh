@@ -16,7 +16,6 @@ code --install-extension GitLab.gitlab-workflow
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension jeff-hykin.better-cpp-syntax
 code --install-extension josetr.cmake-language-support-vscode
-code --install-extension llvm-vs-code-extensions.vscode-clangd
 code --install-extension maattdd.gitless
 code --install-extension matepek.testmate-cpp-legacy
 code --install-extension mhutchie.git-graph
