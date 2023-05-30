@@ -44,4 +44,3 @@ code --install-extension twxs.cmake
 code --install-extension usernamehw.errorlens
 code --install-extension xaver.clang-format
 code --install-extension yzhang.markdown-all-in-one
-code --install-extension znck.grammarly
