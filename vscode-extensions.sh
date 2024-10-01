@@ -16,6 +16,7 @@ code --install-extension gitlab.gitlab-workflow
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension hediet.vscode-drawio
 code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension jock.svg
 code --install-extension josetr.cmake-language-support-vscode
 code --install-extension maattdd.gitless
 code --install-extension matepek.testmate-cpp-legacy
@@ -45,6 +46,7 @@ code --install-extension stuart.unique-window-colors
 code --install-extension technosophos.vscode-make
 code --install-extension timonwong.shellcheck
 code --install-extension twxs.cmake
+code --install-extension uctakeoff.vscode-counter
 code --install-extension usernamehw.errorlens
 code --install-extension xaver.clang-format
 code --install-extension yzhang.markdown-all-in-one
