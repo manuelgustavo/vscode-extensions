@@ -19,10 +19,13 @@ code --install-extension jeff-hykin.better-cpp-syntax
 code --install-extension jock.svg
 code --install-extension josetr.cmake-language-support-vscode
 code --install-extension maattdd.gitless
-code --install-extension matepek.testmate-cpp-legacy
+code --install-extension matepek.vscode-catch2-test-adapter
 code --install-extension mhutchie.git-graph
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.vscode-dotnet-runtime
+code --install-extension ms-python.debugpy
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-vscode-remote.remote-ssh-edit
