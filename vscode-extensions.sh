@@ -1,6 +1,7 @@
 #!/bin/sh
 code --install-extension aaron-bond.better-comments
 code --install-extension alefragnani.bookmarks
+code --install-extension augustocdias.tasks-shell-input
 code --install-extension baincd.copy-path-unixstyle
 code --install-extension cheshirekow.cmake-format
 code --install-extension cschlosser.doxdocgen
@@ -12,7 +13,6 @@ code --install-extension dtsvet.vscode-wasm
 code --install-extension fernandoescolar.vscode-solution-explorer
 code --install-extension foxundermoon.shell-format
 code --install-extension fredericbonnet.cmake-test-adapter
-code --install-extension gitlab.gitlab-workflow
 code --install-extension hbenl.vscode-test-explorer
 code --install-extension hediet.vscode-drawio
 code --install-extension jeff-hykin.better-cpp-syntax
